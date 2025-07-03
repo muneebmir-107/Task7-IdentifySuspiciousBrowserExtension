@@ -33,6 +33,8 @@ To learn how to review, evaluate, and remove potentially harmful or unnecessary 
 - Removed the following extensions:
   - **Shopping Helper** – unknown source, intrusive permissions.
   - **XYZ Coupons** – caused pop-ups and redirects.
+  - **Dark Reader** –unknown source, intrusive permissions.
+
 
 ### 6. Restarted Browser
 - Fully closed and reopened Chrome to apply changes.
